@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+/*
+Base style
+*/
+body{
+    font-family: 'Noto Sans JP'"Meiryo UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN","Yu Gothic UI", "MS PGothic", sans-serif !Important;
+    font-size: 15px;
+    line-height: 1.5;
+    color:#333;
+}
+
+
+/*
+Section
+*/
+section {
+    padding: 30px 15px;
+}
+.section-headline {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0 0 40px
+}
+
+
+/*
+About
+*/
+.about {
+    margin: 0;
+    display: flex;
+}
+/*.about-image{}*/
+.about-caption {
+    padding-left: 15px;
+}
+.about-headline {
+    margin: 0 0 20px;
+    font-size: 30px;
+}
+/*.about-description*/

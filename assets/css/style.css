@@ -14,7 +14,7 @@ body{
 /*
 Section
 */
-section {
+.section {
     padding: 30px 15px;
 }
 .section-headline {

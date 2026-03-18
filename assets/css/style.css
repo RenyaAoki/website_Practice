@@ -7,9 +7,25 @@ body{
     font-family: 'Noto Sans JP'"Meiryo UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN","Yu Gothic UI", "MS PGothic", sans-serif !Important;
     font-size: 15px;
     line-height: 1.5;
-    color:#333;
+    color:rgb(51, 51, 51);
 }
 
+
+/*
+main image
+*/
+/* .main-image {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+} */
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
 
 /*
 Section
